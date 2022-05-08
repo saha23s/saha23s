@@ -2,12 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=I%20am%20Sulagna&fontSize=45&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62) 
 
-#### About me
--
--
--
--
-
 #### Social Media Badge
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOURLINKEDINCODE)](https://www.linkedin.com/in/YOURLINKEDINCODE)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:saha23s@mtholyoke.edu)](mailto:saha23s@mtholyoke.edu)
